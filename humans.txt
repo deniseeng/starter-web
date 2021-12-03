@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Denise	denise@gmail.com	twitter_handle
 
 # THANKS
 
