@@ -20,6 +20,6 @@ Another para
 ## Adding more stuff here
 
 ### Copyright
-Copyright de
+Copyright de. All rights reserved
 
 ### Team members
