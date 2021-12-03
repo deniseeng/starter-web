@@ -18,3 +18,6 @@ This is how you can contribute
 Another para
 
 ## Adding more stuff here
+
+### Copyright
+Copyright de
